@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.23",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "FCreationExhibition",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "SteamVR",

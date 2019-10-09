@@ -1,0 +1,922 @@
+﻿Log file open, 10/08/19 16:40:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FCreationExhibition
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.063232
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:8888'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/epicgameisgame/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Engine.ini]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Engine.ini]
+[2019.10.08-07.40.59:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Engine.ini]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Engine.ini]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.08-07.40.59:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Engine.ini]
+[2019.10.08-07.40.59:577][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Engine.ini]
+[2019.10.08-07.40.59:580][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.08-07.40.59:580][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.08-07.40.59:581][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.08-07.40.59:581][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.08-07.40.59:581][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.08-07.40.59:583][  0]LogHAL: Display: Platform has ~ 8 GB [8429531136 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.08-07.40.59:583][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.08-07.40.59:583][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.08-07.40.59:583][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Scalability.ini]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.08-07.40.59:584][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Config/Windows/Engine.ini]
+[2019.10.08-07.40.59:584][  0]LogInit: Computer: MIKE-NOTEPC
+[2019.10.08-07.40.59:584][  0]LogInit: User: bakam
+[2019.10.08-07.40.59:584][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.08-07.40.59:584][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.08-07.40.59:585][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.10.08-07.40.59:585][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.08-07.40.59:585][  0]LogMemory: Process Physical Memory: 101.29 MB used, 101.29 MB peak
+[2019.10.08-07.40.59:585][  0]LogMemory: Process Virtual Memory: 101.43 MB used, 101.43 MB peak
+[2019.10.08-07.40.59:585][  0]LogMemory: Physical Memory: 4692.09 MB used,  3346.94 MB free, 8039.03 MB total
+[2019.10.08-07.40.59:585][  0]LogMemory: Virtual Memory: 4684.58 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.10.08-07.40.59:587][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.08-07.40.59:618][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.10.08-07.40.59:618][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.10.08-07.40.59:618][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.10.08-07.40.59:773][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.08-07.40.59:885][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.08-07.40.59:885][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.08-07.41.00:075][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.08-07.41.00:911][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.10.08-07.41.00:911][  0]LogD3D11RHI:       6052/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.08-07.41.00:926][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.08-07.41.00:926][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.08-07.41.00:928][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.08-07.41.00:928][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.08-07.41.00:928][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.08-07.41.00:960][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.08-07.41.00:960][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.08-07.41.00:960][  0]LogWindows: EnumDisplayDevices:
+[2019.10.08-07.41.00:960][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.10.08-07.41.00:960][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.08-07.41.00:961][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.08-07.41.00:961][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.08-07.41.00:961][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.08-07.41.00:961][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.08-07.41.00:962][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.08-07.41.00:962][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.08-07.41.00:962][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.10.08-07.41.00:962][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2019.10.08-07.41.00:962][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2019.10.08-07.41.00:962][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.10.08-07.41.01:000][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.08-07.41.01:021][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.08-07.41.01:361][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.08-07.41.01:369][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.08-07.41.01:377][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.08-07.41.01:385][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.08-07.41.01:393][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.08-07.41.01:401][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.08-07.41.01:409][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.08-07.41.01:416][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.08-07.41.01:420][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.08-07.41.01:449][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.08-07.41.01:452][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.08-07.41.01:469][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.08-07.41.01:469][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.08-07.41.01:482][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.08-07.41.01:482][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.08-07.41.01:489][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.08-07.41.01:496][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.08-07.41.01:503][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.08-07.41.01:510][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.08-07.41.01:531][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.08-07.41.01:531][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.08-07.41.01:531][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.08-07.41.01:540][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.08-07.41.01:590][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Intermediate/Shaders/WorkingDirectory/5468/).
+[2019.10.08-07.41.01:590][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bakam/AppData/Local/Temp/UnrealShaderWorkingDir/CE1A308B405901A8737F8E90F25FFF26/'.
+[2019.10.08-07.41.01:592][  0]LogXGEController: Cleaning working directory: C:/Users/bakam/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.08-07.41.01:592][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.08-07.41.01:592][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.08-07.41.01:592][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.08-07.41.02:109][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.08-07.41.02:152][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/bakam/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.08-07.41.02:153][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bakam/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.08-07.41.02:153][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.08-07.41.02:153][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.08-07.41.02:153][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.08-07.41.02:153][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.08-07.41.02:162][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.08-07.41.02:162][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.08-07.41.02:162][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.08-07.41.02:164][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bakam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.08-07.41.02:164][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.08-07.41.02:164][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.08-07.41.02:182][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.08-07.41.02:184][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.08-07.41.02:185][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.08-07.41.02:235][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2019.10.08-07.41.02:440][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.08-07.41.02:571][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.08-07.41.02:571][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.08-07.41.02:571][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.08-07.41.02:571][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.08-07.41.02:571][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.08-07.41.02:579][  0]LogNetVersion: FCreationExhibition 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1612119613)
+[2019.10.08-07.41.02:965][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.043241 seconds
+[2019.10.08-07.41.02:971][  0]LogUObjectArray: 43007 objects as part of root set at end of initial load.
+[2019.10.08-07.41.02:971][  0]LogUObjectAllocator: 7476616 out of 0 bytes used by permanent object pool.
+[2019.10.08-07.41.02:971][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.08-07.41.03:707][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.08-07.41.03:710][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.08-07.41.03:757][  0]SourceControl: Source control is disabled
+[2019.10.08-07.41.04:239][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.08-07.41.04:398][  0]LogEngine: Initializing Engine...
+[2019.10.08-07.41.04:399][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.08-07.41.04:617][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.08-07.41.04:627][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.08-07.41.04:710][  0]LogInit: XAudio2 using 'スピーカー (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.08-07.41.04:794][  0]LogInit: FAudioDevice initialized.
+[2019.10.08-07.41.04:794][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.08-07.41.04:888][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/bakam/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.08-07.41.04:892][  0]LogInit: Texture streaming: Enabled
+[2019.10.08-07.41.04:908][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.08-07.41.04:947][  0]LogInit: Transaction tracking system initialized
+[2019.10.08-07.41.04:968][  0]BlueprintLog: New page: Editor Load
+[2019.10.08-07.41.05:023][  0]LocalizationService: Localization service is disabled
+[2019.10.08-07.41.05:225][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.08-07.41.05:225][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.08-07.41.05:341][  0]LogFileCache: Scanning file cache for directory 'D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/' took 0.03s
+[2019.10.08-07.41.05:341][  0]Cmd: MAP LOAD FILE="../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.08-07.41.05:341][  0]LightingResults: New page: Lighting Build
+[2019.10.08-07.41.05:343][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-07.41.05:343][  0]MapCheck: New page: Map Check
+[2019.10.08-07.41.05:343][  0]LightingResults: New page: Lighting Build
+[2019.10.08-07.41.05:368][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.10.08-07.41.05:428][  0]LogAIModule: Creating AISystem for world Test
+[2019.10.08-07.41.05:431][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.08-07.41.05:457][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.10.08-07.41.05:457][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.08-07.41.05:457][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2019.10.08-07.41.05:457][  0]LogFileHelpers: Loading map 'Test' took 0.116
+[2019.10.08-07.41.05:593][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-07.41.05:605][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-07.41.05:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-07.41.05:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.08-07.41.05:631][  0]LogCollectionManager: Loaded 0 collections in 0.001231 seconds
+[2019.10.08-07.41.05:638][  0]LogFileCache: Scanning file cache for directory 'D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/Collections/' took 0.00s
+[2019.10.08-07.41.05:638][  0]LogFileCache: Scanning file cache for directory 'D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Developers/bakam/Collections/' took 0.00s
+[2019.10.08-07.41.05:638][  0]LogFileCache: Scanning file cache for directory 'D:/desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Collections/' took 0.00s
+[2019.10.08-07.41.05:638][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.10.08-07.41.05:647][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2848 classes and 666 folders.
+[2019.10.08-07.41.05:653][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.08-07.41.05:692][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.08-07.41.05:696][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.08-07.41.05:711][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.08-07.41.05:713][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.08-07.41.05:721][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.08-07.41.05:783][  0]LogRenderer: Reallocating scene render targets to support 960x388 Format 10 NumSamples 1 (Frame:1).
+[2019.10.08-07.41.05:946][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.08-07.41.05:946][  0]LogLoad: (Engine Initialization) Total time: 7.58 seconds
+[2019.10.08-07.41.05:946][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.08-07.41.06:014][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.08-07.41.06:023][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.08-07.41.06:039][  1]LogAssetRegistry: Asset discovery search completed in 3.8053 seconds
+[2019.10.08-07.41.06:042][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.08-07.41.06:042][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.10.08-07.41.06:978][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.08-07.43.58:656][343]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.08-07.43.59:540][343]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.08-07.44.09:565][939]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Manager/PlayerManager.PlayerManager
+[2019.10.08-07.44.09:956][939]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.08-07.44.10:759][939]LogSlate: Took 0.018981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.08-07.44.10:910][940]LogSlate: Took 0.058300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.10.08-07.44.29:397][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.10.08-07.44.29:399][987]LogMetaData: Removing '/Game/Assets/Manager/VibrationManager.VibrationManager:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Manager/NewBlueprint.PackageMetaData'
+[2019.10.08-07.44.29:399][987]LogMetaData: Removing '/Game/Assets/Manager/VibrationManager.SKEL_VibrationManager_C' ref from Metadata '/Game/Assets/Manager/NewBlueprint.PackageMetaData'
+[2019.10.08-07.44.29:399][987]LogMetaData: Removing '/Game/Assets/Manager/VibrationManager.VibrationManager_C' ref from Metadata '/Game/Assets/Manager/NewBlueprint.PackageMetaData'
+[2019.10.08-07.44.29:399][987]LogMetaData: Removing '/Game/Assets/Manager/VibrationManager.VibrationManager:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Manager/NewBlueprint.PackageMetaData'
+[2019.10.08-07.44.29:399][987]LogMetaData: Removing '/Game/Assets/Manager/VibrationManager.VibrationManager:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/Manager/NewBlueprint.PackageMetaData'
+[2019.10.08-07.44.29:399][987]LogMetaData: Removing '/Game/Assets/Manager/VibrationManager.VibrationManager:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Assets/Manager/NewBlueprint.PackageMetaData'
+[2019.10.08-07.44.29:438][987]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager76A7129E4F0BF17B91CFBCA41D76D4CA.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-07.44.29:859][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.08-07.44.29:890][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.10.08-07.44.29:920][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.08-07.44.41:645][689]BlueprintLog: New page: Compile PlayerManager
+[2019.10.08-07.44.41:784][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.10.08-07.44.42:194][706]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/PlayerManager8037D24B45C31D83870A84BDB376909F.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/PlayerManager.uasset'
+[2019.10.08-07.44.45:568][908]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Manager/VibrationManager.VibrationManager
+[2019.10.08-07.44.45:849][909]LogRenderer: Reallocating scene render targets to support 960x424 Format 10 NumSamples 1 (Frame:1).
+[2019.10.08-07.44.47:268][992]LogRenderer: Reallocating scene render targets to support 960x540 Format 10 NumSamples 1 (Frame:78).
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: request failed, libcurl error: 0 (No error)
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23b36377f70 [can pipeline])
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 1 (Re-using existing connection! (#0) with proxy 127.0.0.1)
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 8888 (#0))
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 7 (Closing connection 0)
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.08-07.45.06:411][106]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-07.49.08:175][853]LogHttp: Warning: 0000023B14F24E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-07.49.08:175][853]LogHttp: Warning: 0000023B14F24E00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-07.49.08:175][853]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2019.10.08-07.49.08:175][853]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 1 (Closing connection 1)
+[2019.10.08-07.49.08:175][853]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.08-07.49.08:175][853]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 3 (  Trying 127.0.0.1...)
+[2019.10.08-07.49.08:175][853]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.10.08-07.49.08:175][853]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 5 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-07.49.08:175][853]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 6 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-07.49.08:175][853]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 7 (Closing connection 2)
+[2019.10.08-07.49.08:510][854]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-07.51.10:999][219]LogHttp: Warning: 0000023B14F24E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-07.51.10:999][219]LogHttp: Warning: 0000023B14F24E00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-07.51.10:999][219]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-07.51.10:999][219]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-07.51.10:999][219]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-07.51.10:999][219]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-07.51.10:999][219]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-07.51.11:000][219]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 5 (Closing connection 3)
+[2019.10.08-07.51.11:335][220]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-07.53.13:698][585]LogHttp: Warning: 0000023B14F24E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-07.53.13:698][585]LogHttp: Warning: 0000023B14F24E00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-07.53.13:699][585]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-07.53.13:699][585]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-07.53.13:699][585]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-07.53.13:699][585]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-07.53.13:699][585]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-07.53.13:699][585]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 5 (Closing connection 4)
+[2019.10.08-07.53.14:038][586]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-07.55.16:589][951]LogHttp: Warning: 0000023B14F24E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-07.55.16:589][951]LogHttp: Warning: 0000023B14F24E00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-07.55.16:589][951]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-07.55.16:589][951]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-07.55.16:589][951]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-07.55.16:589][951]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-07.55.16:589][951]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-07.55.16:589][951]LogHttp: Warning: 0000023B14F24E00: libcurl info message cache 5 (Closing connection 5)
+[2019.10.08-07.55.16:921][952]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-07.56.52:019][668]LogSlate: Took 0.041589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.08-07.57.18:954][285]LogHttp: Warning: 0000023B16E2A840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-07.57.18:954][285]LogHttp: Warning: 0000023B16E2A840: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-07.57.18:954][285]LogHttp: Warning: 0000023B16E2A840: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-07.57.18:954][285]LogHttp: Warning: 0000023B16E2A840: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-07.57.18:954][285]LogHttp: Warning: 0000023B16E2A840: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-07.57.18:954][285]LogHttp: Warning: 0000023B16E2A840: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-07.57.18:954][285]LogHttp: Warning: 0000023B16E2A840: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-07.57.18:954][285]LogHttp: Warning: 0000023B16E2A840: libcurl info message cache 5 (Closing connection 6)
+[2019.10.08-07.57.18:969][286]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-07.57.29:147][894]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.08-07.57.41:574][639]BlueprintLog: New page: Compile VibrationManager
+[2019.10.08-07.57.41:718][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.08-07.58.10:494][319]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager536AF0F54D46ADD71679D992A3BB8264.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-07.58.40:804][117]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManagerFA72EF45487A3B134B65DB8D8F7B5151.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-07.58.42:839][234]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager3E71CD76431DF9CC54188092207502E9.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-07.58.48:047][541]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager5D76632F4906C9EDA868C989EC0CEA39.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-07.58.59:887][243]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager437F276F431817FDBFC679943AA138DA.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-07.59.01:571][344]BlueprintLog: New page: Compile VibrationManager
+[2019.10.08-07.59.01:714][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.08-07.59.02:195][367]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManagerC710CBEE454A4F1748DA569D5B84A5DD.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-07.59.07:362][672]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager0C7CE9014454BBB0F4E73CA248A94F2F.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-07.59.21:000][489]LogHttp: Warning: 0000023B172FC400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-07.59.21:000][489]LogHttp: Warning: 0000023B172FC400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-07.59.21:000][489]LogHttp: Warning: 0000023B172FC400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-07.59.21:000][489]LogHttp: Warning: 0000023B172FC400: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-07.59.21:000][489]LogHttp: Warning: 0000023B172FC400: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-07.59.21:000][489]LogHttp: Warning: 0000023B172FC400: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-07.59.21:000][489]LogHttp: Warning: 0000023B172FC400: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-07.59.21:000][489]LogHttp: Warning: 0000023B172FC400: libcurl info message cache 5 (Closing connection 7)
+[2019.10.08-07.59.21:014][490]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-07.59.28:363][924]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.08-08.01.23:041][739]LogHttp: Warning: 0000023B08723880: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.01.23:041][739]LogHttp: Warning: 0000023B08723880: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.01.23:041][739]LogHttp: Warning: 0000023B08723880: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.01.23:041][739]LogHttp: Warning: 0000023B08723880: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.01.23:041][739]LogHttp: Warning: 0000023B08723880: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.01.23:041][739]LogHttp: Warning: 0000023B08723880: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.01.23:041][739]LogHttp: Warning: 0000023B08723880: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.01.23:041][739]LogHttp: Warning: 0000023B08723880: libcurl info message cache 5 (Closing connection 8)
+[2019.10.08-08.01.23:058][740]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.01.52:090][472]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager7A4B5320456422A84E6522A96C51FD67.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.01.54:697][622]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager2A5AE5C74E907FC2CE457E8CAE9BFCDE.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.01.55:578][667]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManagerBA08755A46D8EBFD013BD391A2EE2795.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.01.59:624][904]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager13B3E4D149D1E3356EA2319B46F06F52.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.02.03:891][159]BlueprintLog: New page: Compile VibrationManager
+[2019.10.08-08.02.04:037][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.10.08-08.02.07:214][343]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager5D92EB5348EC376631541EB73A6E9A3E.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.02.20:616][147]BlueprintLog: New page: Compile VibrationManager
+[2019.10.08-08.02.20:756][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.08-08.02.22:101][222]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManagerAB1CDB394A22D74DF35D2AA87CC802BC.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.02.32:092][821]BlueprintLog: New page: Compile VibrationManager
+[2019.10.08-08.02.32:229][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.10.08-08.02.32:885][855]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManagerC91C6EC747E63ABE9D3CFE99F9C26604.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.02.50:061][870]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager69221EFA4280757C88C2C1B3812091F3.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.03.05:723][795]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Manager/PlayerManager.PlayerManager
+[2019.10.08-08.03.21:880][740]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager774DED9B43C740B7C14EFBB3248CD6B6.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.03.25:087][933]LogHttp: Warning: 0000023B23EFFEC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.03.25:087][933]LogHttp: Warning: 0000023B23EFFEC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.03.25:088][933]LogHttp: Warning: 0000023B23EFFEC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.03.25:088][933]LogHttp: Warning: 0000023B23EFFEC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.03.25:088][933]LogHttp: Warning: 0000023B23EFFEC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.03.25:088][933]LogHttp: Warning: 0000023B23EFFEC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.03.25:088][933]LogHttp: Warning: 0000023B23EFFEC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.03.25:088][933]LogHttp: Warning: 0000023B23EFFEC0: libcurl info message cache 5 (Closing connection 9)
+[2019.10.08-08.03.25:105][934]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.03.52:203][553]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/PlayerManager476A6E334CA649F82F628B98917F6824.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/PlayerManager.uasset'
+[2019.10.08-08.04.07:464][460]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/PlayerManager0C11ACA243D4736094617A96506F355F.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/PlayerManager.uasset'
+[2019.10.08-08.04.20:121][213]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/PlayerManager63C3E6C04199658492448DB6B381D6EB.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/PlayerManager.uasset'
+[2019.10.08-08.04.33:397][  2]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/PlayerManager704A71644A0F47F5E9D020AA476A9762.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/PlayerManager.uasset'
+[2019.10.08-08.04.43:931][634]BlueprintLog: New page: Compile VibrationManager
+[2019.10.08-08.04.43:933][634]LogBlueprint: Error: [Compiler VibrationManager] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2019.10.08-08.04.44:074][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.10.08-08.05.27:148][214]LogHttp: Warning: 0000023B29A9A980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.05.27:148][214]LogHttp: Warning: 0000023B29A9A980: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.05.27:148][214]LogHttp: Warning: 0000023B29A9A980: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.05.27:148][214]LogHttp: Warning: 0000023B29A9A980: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.05.27:148][214]LogHttp: Warning: 0000023B29A9A980: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.05.27:148][214]LogHttp: Warning: 0000023B29A9A980: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.05.27:148][214]LogHttp: Warning: 0000023B29A9A980: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.05.27:148][214]LogHttp: Warning: 0000023B29A9A980: libcurl info message cache 5 (Closing connection 10)
+[2019.10.08-08.05.27:148][214]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.05.29:886][372]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager0577FCDC41635A5BA7317AA801EFDFEA.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.05.39:575][946]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager3C369553442D4715578478B09D4299F8.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.05.44:554][239]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager0707A72B42DFDA04E7AF1697330A8FB2.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.05.47:055][382]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManagerF0775D984645CAC8C2D576995FF6038F.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.06.13:629][976]BlueprintLog: New page: Compile VibrationManager
+[2019.10.08-08.06.13:631][976]LogBlueprint: Error: [Compiler VibrationManager] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2019.10.08-08.06.13:777][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.10.08-08.06.29:141][882]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager752D811C4A72816BFD282CAAA64EF8C7.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.06.40:024][529]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/PlayerManagerB476E35848003143ED92069F71C15453.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/PlayerManager.uasset'
+[2019.10.08-08.06.40:643][566]BlueprintLog: New page: Compile PlayerManager
+[2019.10.08-08.06.40:787][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.10.08-08.07.02:307][856]LogEditorTransaction: Undo Move Node
+[2019.10.08-08.07.09:145][265]LogEditorTransaction: Undo Create Pin Link
+[2019.10.08-08.07.22:364][ 52]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager0401943B41B83CAB7C941E82DD84FFDF.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.07.24:323][164]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager4A6367A34A442773D31490B4C7BFDFCD.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.07.29:196][455]LogHttp: Warning: 0000023B23E5B600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.07.29:196][455]LogHttp: Warning: 0000023B23E5B600: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.07.29:196][455]LogHttp: Warning: 0000023B23E5B600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.07.29:196][455]LogHttp: Warning: 0000023B23E5B600: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.07.29:196][455]LogHttp: Warning: 0000023B23E5B600: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.07.29:196][455]LogHttp: Warning: 0000023B23E5B600: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.07.29:196][455]LogHttp: Warning: 0000023B23E5B600: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.07.29:196][455]LogHttp: Warning: 0000023B23E5B600: libcurl info message cache 5 (Closing connection 11)
+[2019.10.08-08.07.29:215][456]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.08.02:584][450]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager7957C8DB40A06FE641DD7BB2DD7A4E4D.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.08.03:425][495]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager0D5B1766437714F1CAA267ADD1B882D4.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.08.03:613][506]BlueprintLog: New page: Compile VibrationManager
+[2019.10.08-08.08.03:615][506]LogBlueprint: Error: [Compiler VibrationManager] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2019.10.08-08.08.03:771][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.10.08-08.09.21:727][131]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager9B20EC2741EA81A14B24608E71B6016F.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.09.30:732][665]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager46C19509497051FB6640879E7A429EB5.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.09.31:242][696]LogHttp: Warning: 0000023B2B317380: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.09.31:242][696]LogHttp: Warning: 0000023B2B317380: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.09.31:242][696]LogHttp: Warning: 0000023B2B317380: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.09.31:242][696]LogHttp: Warning: 0000023B2B317380: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.09.31:242][696]LogHttp: Warning: 0000023B2B317380: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.09.31:242][696]LogHttp: Warning: 0000023B2B317380: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.09.31:242][696]LogHttp: Warning: 0000023B2B317380: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.09.31:242][696]LogHttp: Warning: 0000023B2B317380: libcurl info message cache 5 (Closing connection 12)
+[2019.10.08-08.09.31:242][696]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.09.32:984][800]BlueprintLog: New page: Compile VibrationManager
+[2019.10.08-08.09.33:130][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.10.08-08.10.08:223][881]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager4D8A3DDD4B20E6A0BAA1C2894970B6DD.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.10.10:535][ 14]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager3A68B29B499B269B0A730D87647DEAD8.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.10.12:360][117]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManagerB1BB4BE84E4CB6D8B343F881B408EAE8.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.10.23:467][775]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/VibrationManager46F0BA9B477B6952731E33B8F89474D9.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/VibrationManager.uasset'
+[2019.10.08-08.11.33:290][965]LogHttp: Warning: 0000023B2B423600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.11.33:290][965]LogHttp: Warning: 0000023B2B423600: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.11.33:290][965]LogHttp: Warning: 0000023B2B423600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.11.33:290][965]LogHttp: Warning: 0000023B2B423600: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.11.33:290][965]LogHttp: Warning: 0000023B2B423600: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.11.33:290][965]LogHttp: Warning: 0000023B2B423600: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.11.33:290][965]LogHttp: Warning: 0000023B2B423600: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.11.33:290][965]LogHttp: Warning: 0000023B2B423600: libcurl info message cache 5 (Closing connection 13)
+[2019.10.08-08.11.33:307][966]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.12.18:906][696]LogSavePackage: Moving '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Saved/PlayerManager97C5F65A49A04EF300C86D9797E83015.tmp' to '../../../../../desktop/未来創造展verクラーケン/Future-Creation-Exhibition/FCreationExhibition/Content/Assets/Manager/PlayerManager.uasset'
+[2019.10.08-08.13.35:774][  6]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.13.35:774][  6]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.13.35:774][  6]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.13.35:774][  6]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.13.35:774][  6]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.13.35:774][  6]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.13.35:774][  6]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.13.35:774][  6]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 14)
+[2019.10.08-08.13.35:774][  6]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.15.38:161][372]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.15.38:161][372]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.15.38:161][372]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.15.38:161][372]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.15.38:161][372]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.15.38:161][372]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.15.38:161][372]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.15.38:161][372]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 15)
+[2019.10.08-08.15.38:161][372]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.17.40:788][738]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.17.40:788][738]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.17.40:788][738]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.17.40:788][738]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.17.40:788][738]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.17.40:788][738]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.17.40:788][738]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.17.40:788][738]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 16)
+[2019.10.08-08.17.40:788][738]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.19.43:454][104]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.19.43:454][104]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.19.43:454][104]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.19.43:454][104]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.19.43:454][104]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.19.43:454][104]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.19.43:454][104]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.19.43:454][104]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 17)
+[2019.10.08-08.19.43:454][104]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.21.45:857][469]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.21.45:857][469]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.21.45:857][469]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.21.45:857][469]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.21.45:857][469]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.21.45:857][469]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.21.45:857][469]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.21.45:857][469]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 18)
+[2019.10.08-08.21.46:192][470]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.23.48:800][835]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.23.48:800][835]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.23.48:800][835]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.23.48:800][835]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.23.48:800][835]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.23.48:800][835]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.23.48:800][835]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.23.48:800][835]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 19)
+[2019.10.08-08.23.49:134][836]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.25.51:571][201]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.25.51:571][201]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.25.51:571][201]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.25.51:571][201]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.25.51:571][201]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.25.51:571][201]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.25.51:571][201]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.25.51:571][201]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 20)
+[2019.10.08-08.25.51:903][202]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.27.54:527][567]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.27.54:527][567]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.27.54:527][567]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.27.54:527][567]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.27.54:527][567]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.27.54:527][567]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.27.54:527][567]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.27.54:527][567]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 21)
+[2019.10.08-08.27.54:860][568]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.29.57:541][933]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.29.57:541][933]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.29.57:541][933]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.29.57:541][933]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.29.57:541][933]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.29.57:541][933]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.29.57:541][933]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.29.57:541][933]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 22)
+[2019.10.08-08.29.57:881][934]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.32.00:277][298]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.32.00:277][298]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.32.00:277][298]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.32.00:277][298]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.32.00:277][298]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.32.00:277][298]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.32.00:277][298]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.32.00:277][298]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 23)
+[2019.10.08-08.32.00:277][298]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.34.02:623][662]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.34.02:623][662]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.34.02:623][662]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.34.02:623][662]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.34.02:623][662]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.34.02:623][662]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.34.02:623][662]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.34.02:623][662]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 24)
+[2019.10.08-08.34.02:623][662]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.36.04:663][ 25]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.36.04:663][ 25]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.36.04:663][ 25]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.36.04:663][ 25]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.36.04:663][ 25]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.36.04:663][ 25]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.36.04:663][ 25]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.36.04:663][ 25]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 25)
+[2019.10.08-08.36.04:999][ 26]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.45.08:014][667]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.45.08:014][667]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.45.08:014][667]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Connection 29 seems to be dead!)
+[2019.10.08-08.45.08:014][667]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (Closing connection 29)
+[2019.10.08-08.45.08:014][667]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.08-08.45.08:014][667]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (  Trying 127.0.0.1...)
+[2019.10.08-08.45.08:014][667]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.10.08-08.45.08:014][667]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.45.08:015][667]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 6 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.45.08:015][667]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 7 (Closing connection 30)
+[2019.10.08-08.45.08:352][668]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.47.10:651][ 32]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.47.10:652][ 32]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.47.10:652][ 32]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.47.10:652][ 32]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.47.10:652][ 32]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.47.10:652][ 32]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.47.10:652][ 32]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.47.10:652][ 32]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 31)
+[2019.10.08-08.47.10:652][ 32]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.49.13:104][396]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.49.13:104][396]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.49.13:104][396]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.49.13:104][396]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.49.13:104][396]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.49.13:104][396]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.49.13:104][396]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.49.13:104][396]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 32)
+[2019.10.08-08.49.13:104][396]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.51.15:513][760]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.51.15:513][760]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.51.15:513][760]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.51.15:513][760]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.51.15:513][760]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.51.15:513][760]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.51.15:513][760]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.51.15:513][760]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 33)
+[2019.10.08-08.51.15:513][760]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.53.17:902][124]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.53.17:902][124]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.53.17:902][124]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.53.17:902][124]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.53.17:902][124]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.53.17:902][124]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.53.17:902][124]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.53.17:902][124]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 34)
+[2019.10.08-08.53.17:902][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.55.20:346][488]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.55.20:346][488]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.55.20:346][488]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.55.20:346][488]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.55.20:346][488]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.55.20:346][488]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.55.20:346][488]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.55.20:346][488]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 35)
+[2019.10.08-08.55.20:346][488]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.08-08.57.22:631][851]LogHttp: Warning: 0000023B2DC37EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.08-08.57.22:631][851]LogHttp: Warning: 0000023B2DC37EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.08-08.57.22:631][851]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.08-08.57.22:631][851]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.08-08.57.22:631][851]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.08-08.57.22:631][851]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 3 (connect to 127.0.0.1 port 8888 failed: Connection refused)
+[2019.10.08-08.57.22:631][851]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 8888: Connection refused)
+[2019.10.08-08.57.22:631][851]LogHttp: Warning: 0000023B2DC37EC0: libcurl info message cache 5 (Closing connection 36)
+[2019.10.08-08.57.22:970][852]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B223C9AA4-4CEB-C1BA-B17D-B1923865616F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=842174b24c82424995bfd7a5804fdd3b%7C01e6d5012129441da5aeb4eb260c00b5%7Cb4a0c091-2b0f-438f-b95e-ef5397da4bad&AppEnvironment=datacollector-binary&UploadType=eteventstream
