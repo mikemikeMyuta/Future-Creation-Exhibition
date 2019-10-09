@@ -28,8 +28,8 @@
 /wd4838
 /we4668
 /I .
-/I D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Source
-/I D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Source\FCreationExhibition
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Source
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Source\FCreationExhibition
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -529,12 +529,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\FCreationExhibitionEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\FCreationExhibitionEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\FCreationExhibitionEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Source\FCreationExhibition\FCreationExhibition.cpp"
-/FI"D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\UE4Editor\Development\FCreationExhibition\Definitions.FCreationExhibition.h"
-/Fo"D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\UE4Editor\Development\FCreationExhibition\FCreationExhibition.cpp.obj"
+/FI"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\FCreationExhibitionEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\FCreationExhibitionEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\FCreationExhibitionEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Source\FCreationExhibition\FCreationExhibition.cpp"
+/FI"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\UE4Editor\Development\FCreationExhibition\Definitions.FCreationExhibition.h"
+/Fo"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\UE4Editor\Development\FCreationExhibition\FCreationExhibition.cpp.obj"
 /TP
 /GR-
 /W4

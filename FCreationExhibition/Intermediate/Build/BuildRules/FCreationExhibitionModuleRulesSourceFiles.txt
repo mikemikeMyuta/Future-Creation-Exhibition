@@ -1,5 +1,5 @@
-D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Source\FCreationExhibition\FCreationExhibition.Build.cs
-D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Source\EffekseerEd\EffekseerEd.Build.cs
-D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Source\Effekseer\Effekseer.Build.cs
-D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Source\FCreationExhibition.Target.cs
-D:\desktop\未来創造展verクラーケン\Future-Creation-Exhibition\FCreationExhibition\Source\FCreationExhibitionEditor.Target.cs
+D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Source\FCreationExhibition\FCreationExhibition.Build.cs
+D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Source\EffekseerEd\EffekseerEd.Build.cs
+D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Source\Effekseer\Effekseer.Build.cs
+D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Source\FCreationExhibition.Target.cs
+D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Source\FCreationExhibitionEditor.Target.cs
