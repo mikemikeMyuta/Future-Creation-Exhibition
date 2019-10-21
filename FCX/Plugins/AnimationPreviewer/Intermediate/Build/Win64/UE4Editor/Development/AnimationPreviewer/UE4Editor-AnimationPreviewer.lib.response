@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AnimationPreviewer.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Intermediate\Build\Win64\FCXEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Development\AnimationPreviewer\Module.AnimationPreviewer.cpp.obj"
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Development\AnimationPreviewer\Module.AnimationPreviewer.gen.cpp.obj"
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Development\AnimationPreviewer\Default.rc2.res"
+/OUT:"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Development\AnimationPreviewer\UE4Editor-AnimationPreviewer.lib"
+/INCLUDE:IMPLEMENT_MODULE_AnimationPreviewer
