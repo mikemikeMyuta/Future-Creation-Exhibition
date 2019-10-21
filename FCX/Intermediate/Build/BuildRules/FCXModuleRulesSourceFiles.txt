@@ -1,0 +1,2 @@
+E:\work\HAL\4th grade\GP41\Mitarai\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\Effekseer\Effekseer.Build.cs
+E:\work\HAL\4th grade\GP41\Mitarai\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\EffekseerEd\EffekseerEd.Build.cs
