@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Source\EffekseerEd\Private
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\EffekseerEd\Private
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -499,15 +499,15 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer
-/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Source
-/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Source\Effekseer\Public
-/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Source\Effekseer
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\Effekseer\Public
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\Effekseer
 /I Developer\RawMesh\Public
 /I Developer\RawMesh
-/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\EffekseerEd
-/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Source\EffekseerEd\Public
-/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Source\EffekseerEd
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\EffekseerEd
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\EffekseerEd\Public
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\EffekseerEd
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -537,12 +537,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\FCreationExhibitionEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
-/Yu"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\FCreationExhibitionEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
-/Fp"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Intermediate\Build\Win64\FCreationExhibitionEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
-"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\EffekseerEd\Module.EffekseerEd.cpp"
-/FI"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\EffekseerEd\Definitions.EffekseerEd.h"
-/Fo"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCreationExhibition\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\EffekseerEd\Module.EffekseerEd.cpp.obj"
+/FI"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Intermediate\Build\Win64\FCXEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Yu"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Intermediate\Build\Win64\FCXEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Fp"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Intermediate\Build\Win64\FCXEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\EffekseerEd\Module.EffekseerEd.cpp"
+/FI"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\EffekseerEd\Definitions.EffekseerEd.h"
+/Fo"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\EffekseerEd\Module.EffekseerEd.cpp.obj"
 /TP
 /GR-
 /W4

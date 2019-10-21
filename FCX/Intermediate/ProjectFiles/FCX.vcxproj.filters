@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FCX.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{79BEFD5D-3186-4809-BA3D-85E74013AC07}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FCX.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FCXEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{31912819-6333-4EEF-B827-AC5AEAE01162}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{F91FC38E-7D34-4CA8-9BFF-BF01062E5FE2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AnimationPreviewer">
+      <UniqueIdentifier>{733898EB-0F7F-4859-B069-C492F951A590}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AnimationPreviewer\Source">
+      <UniqueIdentifier>{58D42DCE-77A1-4828-8113-7337C36E375E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AnimationPreviewer\Source\AnimationPreviewerEd">
+      <UniqueIdentifier>{4E01C267-49A1-4296-A05E-AFB42B331CE8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\AnimationPreviewerEd.Build.cs">
+      <Filter>Plugins\AnimationPreviewer\Source\AnimationPreviewerEd</Filter>
+    </None>
+    <Filter Include="Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Private">
+      <UniqueIdentifier>{139226C7-CB1E-4408-855A-CBFAF02A619D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Private\AnimationPreviewerEd.cpp">
+      <Filter>Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Private\AnimGraphNode_SimpleRetarget.cpp">
+      <Filter>Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Public">
+      <UniqueIdentifier>{DB74B6B9-E248-4931-BA5F-3359D6559DC7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Public\AnimationPreviewerEd.h">
+      <Filter>Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Public\AnimGraphNode_SimpleRetarget.h">
+      <Filter>Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\AnimationPreviewer\AnimationPreviewer.uplugin">
+      <Filter>Plugins\AnimationPreviewer</Filter>
+    </None>
+    <Filter Include="Plugins\AnimationPreviewer\Resources">
+      <UniqueIdentifier>{2F9D98A6-3A2E-4B6F-B005-114CB0975325}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimationPreviewer\Resources\Icon128.png">
+      <Filter>Plugins\AnimationPreviewer\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\Effekseer">
+      <UniqueIdentifier>{09C7B663-AB63-4F18-BD96-A460CE6303DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Effekseer\Effekseer.uplugin">
+      <Filter>Plugins\Effekseer</Filter>
+    </None>
+    <Filter Include="Plugins\AnimationPreviewer\Source\AnimationPreviewer">
+      <UniqueIdentifier>{D928AA04-D400-4C0C-8D25-EE8BF6E6E55A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimationPreviewer\Source\AnimationPreviewer\AnimationPreviewer.Build.cs">
+      <Filter>Plugins\AnimationPreviewer\Source\AnimationPreviewer</Filter>
+    </None>
+    <Filter Include="Plugins\AnimationPreviewer\Source\AnimationPreviewer\Private">
+      <UniqueIdentifier>{4E0C281F-D209-455D-8C00-F74A8C261D72}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AnimationPreviewer\Source\AnimationPreviewer\Private\AnimationPreviewer.cpp">
+      <Filter>Plugins\AnimationPreviewer\Source\AnimationPreviewer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimationPreviewer\Source\AnimationPreviewer\Private\AnimNode_SimpleRetarget.cpp">
+      <Filter>Plugins\AnimationPreviewer\Source\AnimationPreviewer\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AnimationPreviewer\Source\AnimationPreviewer\Public">
+      <UniqueIdentifier>{1D794611-5A84-4C0D-8782-872B96212C9A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AnimationPreviewer\Source\AnimationPreviewer\Public\AnimationPreviewer.h">
+      <Filter>Plugins\AnimationPreviewer\Source\AnimationPreviewer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimationPreviewer\Source\AnimationPreviewer\Public\AnimNode_SimpleRetarget.h">
+      <Filter>Plugins\AnimationPreviewer\Source\AnimationPreviewer\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Effekseer\Source">
+      <UniqueIdentifier>{EA2F4449-9C03-48EB-9B82-D62E1B8386A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Effekseer\Source\Effekseer">
+      <UniqueIdentifier>{83269DBD-780F-49EC-8AE5-8C9AC9B6479B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Effekseer\Source\Effekseer\Effekseer.Build.cs">
+      <Filter>Plugins\Effekseer\Source\Effekseer</Filter>
+    </None>
+    <Filter Include="Plugins\Effekseer\Source\Effekseer\Private">
+      <UniqueIdentifier>{4C990535-5722-4C03-AF8B-D4BED6276CB4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\AnimNotify_PlayEffekseerEffect.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\Effekseer.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerCustomVersion.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerCustomVersion.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerEffect.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerEmitterComponent.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerHandle.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerInternalModel.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerInternalModel.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerModel.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerNative.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerNative.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerPrivatePCH.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererImplemented.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererImplemented.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererIndexBuffer.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererIndexBuffer.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererNative.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererNative.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererRenderState.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererRenderState.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererShader.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererShader.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererVertexBuffer.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerRendererVertexBuffer.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\Effekseer\Private\EffekseerSystemComponent.cpp">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Effekseer\Source\Effekseer\Public">
+      <UniqueIdentifier>{967EBF86-AEA1-4DEF-8A08-A6194252DBBC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Public\AnimNotify_PlayEffekseerEffect.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Public\Effekseer.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Public\EffekseerEffect.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Public\EffekseerEmitterComponent.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Public\EffekseerHandle.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Public\EffekseerModel.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Public\EffekseerSystemComponent.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\Effekseer\Public\IEffekseer.h">
+      <Filter>Plugins\Effekseer\Source\Effekseer\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Effekseer\Source\EffekseerEd">
+      <UniqueIdentifier>{08A6C3D3-A513-4F37-B8CD-CB7A84D2BA86}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Effekseer\Source\EffekseerEd\EffekseerEd.Build.cs">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd</Filter>
+    </None>
+    <Filter Include="Plugins\Effekseer\Source\EffekseerEd\Private">
+      <UniqueIdentifier>{149896A6-4164-459F-BAFB-C4D6B26BE087}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Private\AssetTypeActions_EffekseerEffect.cpp">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Private\AssetTypeActions_EffekseerModel.cpp">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Private\EffekseerEd.cpp">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Private\EffekseerEdPrivatePCH.h">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Private\EffekseerEffectFactory.cpp">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Private\EffekseerModelFactory.cpp">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Effekseer\Source\EffekseerEd\Public">
+      <UniqueIdentifier>{36802389-AF68-449A-A7A3-0752C7EADF71}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Public\AssetTypeActions_EffekseerEffect.h">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Public\AssetTypeActions_EffekseerModel.h">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Public\EffekseerEffectFactory.h">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Public\EffekseerModelFactory.h">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Effekseer\Source\EffekseerEd\Public\IEffekseerEd.h">
+      <Filter>Plugins\Effekseer\Source\EffekseerEd\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\FCX">
+      <UniqueIdentifier>{23382CE7-1F11-4C60-BE2E-B72C434C4E42}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FCX\FCX.Build.cs">
+      <Filter>Source\FCX</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FCX\FCX.cpp">
+      <Filter>Source\FCX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FCX\FCX.h">
+      <Filter>Source\FCX</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
