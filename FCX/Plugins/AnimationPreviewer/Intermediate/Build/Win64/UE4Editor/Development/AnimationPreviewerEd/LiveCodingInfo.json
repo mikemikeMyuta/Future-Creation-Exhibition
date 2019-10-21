@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AnimationPreviewerEd.cpp.obj": [
+			"AnimationPreviewerEd.cpp.obj",
+			"AnimGraphNode_SimpleRetarget.cpp.obj"
+		],
+		"Module.AnimationPreviewerEd.gen.cpp.obj": [
+			"AnimationPreviewerEd.init.gen.cpp.obj",
+			"AnimGraphNode_SimpleRetarget.gen.cpp.obj"
+		]
+	}
+}

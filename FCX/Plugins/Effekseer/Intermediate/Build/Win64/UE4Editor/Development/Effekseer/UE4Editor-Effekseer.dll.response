@@ -32,10 +32,17 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
+<<<<<<< HEAD
 "E:\work\HAL\4th grade\GP41\Mitarai\Future-Creation-Exhibition\FCX\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
 "E:\work\HAL\4th grade\GP41\Mitarai\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\Effekseer\Module.Effekseer.cpp.obj"
 "E:\work\HAL\4th grade\GP41\Mitarai\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\Effekseer\Module.Effekseer.gen.cpp.obj"
 "E:\work\HAL\4th grade\GP41\Mitarai\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\Effekseer\Default.rc2.res"
+=======
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Intermediate\Build\Win64\FCXEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\Effekseer\Module.Effekseer.cpp.obj"
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\Effekseer\Module.Effekseer.gen.cpp.obj"
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\Effekseer\Default.rc2.res"
+>>>>>>> alpha
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -60,6 +67,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
+<<<<<<< HEAD
 "E:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "E:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
 "E:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
@@ -69,5 +77,16 @@
 /OUT:"E:\work\HAL\4th grade\GP41\Mitarai\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Binaries\Win64\UE4Editor-Effekseer.dll"
 /IMPLIB:"E:\work\HAL\4th grade\GP41\Mitarai\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\Effekseer\UE4Editor-Effekseer.suppressed.lib"
 /PDB:"E:\work\HAL\4th grade\GP41\Mitarai\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Binaries\Win64\UE4Editor-Effekseer.pdb"
+=======
+"D:\epicgameisgame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\epicgameisgame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"D:\epicgameisgame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"D:\epicgameisgame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\RHI\UE4Editor-RHI.lib"
+"D:\epicgameisgame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\RenderCore\UE4Editor-RenderCore.lib"
+"D:\epicgameisgame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+/OUT:"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Binaries\Win64\UE4Editor-Effekseer.dll"
+/IMPLIB:"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\Effekseer\UE4Editor-Effekseer.suppressed.lib"
+/PDB:"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Binaries\Win64\UE4Editor-Effekseer.pdb"
+>>>>>>> alpha
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_Effekseer
