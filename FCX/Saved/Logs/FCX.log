@@ -1690,6 +1690,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.21-07.31.03:865][899]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
 [2019.10.21-07.31.04:366][899]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
 [2019.10.21-07.31.04:867][899]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+<<<<<<< HEAD
 [2019.10.21-07.31.05:367][899]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
 [2019.10.21-07.31.05:868][899]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
 [2019.10.21-07.31.06:369][899]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
@@ -1848,3 +1849,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.21-07.31.31:938][899]LogD3D11RHI: ~FD3D11DynamicRHI
 [2019.10.21-07.31.32:033][899]LogExit: Exiting.
 [2019.10.21-07.31.32:059][899]Log file closed, 10/21/19 16:31:32
+=======
+>>>>>>> mike
