@@ -1,221 +1,216 @@
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\Effekseer\Definitions.Effekseer.h
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/AnimNotify_PlayEffekseerEffect.cpp
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\Effekseer\Public\AnimNotify_PlayEffekseerEffect.h
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\AnimNotify_PlayEffekseerEffect.generated.h
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\Effekseer\Public\EffekseerEmitterComponent.h
-D:\epicgameisgame\UE_4.23\Engine\Source\Runtime/Engine/Public/EngineUtils.h
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\public\EffekseerEffect.h
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\public\EffekseerModel.h
-D:\epicgameisgame\UE_4.23\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
-D:\epicgameisgame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\EffekseerModel.generated.h
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\EffekseerEffect.generated.h
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\public\EffekseerHandle.h
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\EffekseerHandle.generated.h
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\EffekseerEmitterComponent.generated.h
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/Effekseer.cpp
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\Effekseer\Public\Effekseer.h
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\public\IEffekseer.h
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerCustomVersion.cpp
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\private\EffekseerCustomVersion.h
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerEffect.cpp
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\private\EffekseerNative.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\functional
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerEmitterComponent.cpp
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Source\Effekseer\Public\EffekseerSystemComponent.h
-D:\epicgameisgame\UE_4.23\Engine\Source\Runtime/Engine/Classes/Materials/MaterialInstanceConstant.h
-D:\epicgameisgame\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceConstant.generated.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\map
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
-D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\EffekseerSystemComponent.generated.h
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerHandle.cpp
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerInternalModel.cpp
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\private\EffekseerInternalModel.h
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerModel.cpp
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerNative.cpp
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\list
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\set
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\queue
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\deque
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\fstream
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thread
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\chrono
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ratio
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtimec.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthrcommon.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthread
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtime
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthreads.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\mutex
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\array
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iterator
-D:\epicgameisgame\UE_4.23\Engine\Source\Runtime\Core\Public\Windows\AllowWindowsPlatformTypes.h
-D:\epicgameisgame\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
-D:\epicgameisgame\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-D:\epicgameisgame\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\poppack.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\poppack.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\pshpack8.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\poppack.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\poppack.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\poppack.h
-c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
-D:\epicgameisgame\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winsock2.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ws2def.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\inaddr.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\qos.h
-D:\epicgameisgame\UE_4.23\Engine\Source\Runtime\Core\Public\Windows\HideWindowsPlatformTypes.h
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererImplemented.cpp
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererImplemented.h
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererNative.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stack
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererRenderState.h
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererVertexBuffer.h
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererIndexBuffer.h
-d:\desktop\future-creation-exhibtionvergitkraken\future-creation-exhibition\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererShader.h
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererIndexBuffer.cpp
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererNative.cpp
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererRenderState.cpp
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererShader.cpp
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererVertexBuffer.cpp
-D:/desktop/Future-Creation-ExhibtionVerGitKraken/Future-Creation-Exhibition/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerSystemComponent.cpp
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Development\Effekseer\Definitions.Effekseer.h
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/AnimNotify_PlayEffekseerEffect.cpp
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Source\Effekseer\Public\AnimNotify_PlayEffekseerEffect.h
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\AnimNotify_PlayEffekseerEffect.generated.h
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Source\Effekseer\Public\EffekseerEmitterComponent.h
+D:\UnrealEngine\UE_4.23\Engine\Source\Runtime/Engine/Public/EngineUtils.h
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\public\EffekseerEffect.h
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\public\EffekseerModel.h
+D:\UnrealEngine\UE_4.23\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+D:\UnrealEngine\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\EffekseerModel.generated.h
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\EffekseerEffect.generated.h
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\public\EffekseerHandle.h
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\EffekseerHandle.generated.h
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\EffekseerEmitterComponent.generated.h
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/Effekseer.cpp
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Source\Effekseer\Public\Effekseer.h
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\public\IEffekseer.h
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerCustomVersion.cpp
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\private\EffekseerCustomVersion.h
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerEffect.cpp
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\private\EffekseerNative.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\functional
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerEmitterComponent.cpp
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Source\Effekseer\Public\EffekseerSystemComponent.h
+D:\UnrealEngine\UE_4.23\Engine\Source\Runtime/Engine/Classes/Materials/MaterialInstanceConstant.h
+D:\UnrealEngine\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceConstant.generated.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
+D:\UnrealProject\MITARAI\project\FCX\Plugins\Effekseer\Intermediate\Build\Win64\UE4Editor\Inc\Effekseer\EffekseerSystemComponent.generated.h
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerHandle.cpp
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerInternalModel.cpp
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\private\EffekseerInternalModel.h
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerModel.cpp
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerNative.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\list
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\set
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\queue
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\deque
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\fstream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\thread
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\ratio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthrcommon.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthread
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtime
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\mutex
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\array
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\iterator
+D:\UnrealEngine\UE_4.23\Engine\Source\Runtime\Core\Public\Windows\AllowWindowsPlatformTypes.h
+D:\UnrealEngine\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\UnrealEngine\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\UnrealEngine\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ime_cmodes.h
+D:\UnrealEngine\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winsock2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\ws2def.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\qos.h
+D:\UnrealEngine\UE_4.23\Engine\Source\Runtime\Core\Public\Windows\HideWindowsPlatformTypes.h
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererImplemented.cpp
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererImplemented.h
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererNative.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE\stack
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererRenderState.h
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererVertexBuffer.h
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererIndexBuffer.h
+d:\unrealproject\mitarai\project\fcx\plugins\effekseer\source\effekseer\private\EffekseerRendererShader.h
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererIndexBuffer.cpp
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererNative.cpp
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererRenderState.cpp
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererShader.cpp
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerRendererVertexBuffer.cpp
+D:/UnrealProject/MITARAI/project/FCX/Plugins/Effekseer/Source/Effekseer/Private/EffekseerSystemComponent.cpp
