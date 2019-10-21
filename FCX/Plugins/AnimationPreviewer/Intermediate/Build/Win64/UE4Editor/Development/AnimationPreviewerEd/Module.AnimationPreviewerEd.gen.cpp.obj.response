@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Private
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -510,13 +510,13 @@
 /I Runtime\AnimGraphRuntime\Public\AnimNotifies
 /I Runtime\AnimGraphRuntime\Public\BoneControllers
 /I Runtime\AnimGraphRuntime\Public\RBF
-/I D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Inc\AnimationPreviewerEd
-/I D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Source
-/I D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Public
-/I D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd
-/I D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Inc\AnimationPreviewer
-/I D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Source\AnimationPreviewer\Public
-/I D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Source\AnimationPreviewer
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Inc\AnimationPreviewerEd
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Source
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd\Public
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Source\AnimationPreviewerEd
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Inc\AnimationPreviewer
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Source\AnimationPreviewer\Public
+/I D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Source\AnimationPreviewer
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -540,18 +540,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"D:\UnrealProject\MITARAI\project\FCX\Intermediate\Build\Win64\FCXEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\UnrealProject\MITARAI\project\FCX\Intermediate\Build\Win64\FCXEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\UnrealProject\MITARAI\project\FCX\Intermediate\Build\Win64\FCXEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Development\AnimationPreviewerEd\Module.AnimationPreviewerEd.gen.cpp"
-/FI"D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Development\AnimationPreviewerEd\Definitions.AnimationPreviewerEd.h"
-/Fo"D:\UnrealProject\MITARAI\project\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Development\AnimationPreviewerEd\Module.AnimationPreviewerEd.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Intermediate\Build\Win64\FCXEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Intermediate\Build\Win64\FCXEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Intermediate\Build\Win64\FCXEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Development\AnimationPreviewerEd\Module.AnimationPreviewerEd.gen.cpp"
+/FI"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Development\AnimationPreviewerEd\Definitions.AnimationPreviewerEd.h"
+/Fo"D:\desktop\Future-Creation-ExhibtionVerGitKraken\Future-Creation-Exhibition\FCX\Plugins\AnimationPreviewer\Intermediate\Build\Win64\UE4Editor\Development\AnimationPreviewerEd\Module.AnimationPreviewerEd.gen.cpp.obj"
 /TP
 /GR-
 /W4
