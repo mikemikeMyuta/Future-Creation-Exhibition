@@ -75,7 +75,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-FCX/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-
-FCX/Saved/Logs/FCX.log
