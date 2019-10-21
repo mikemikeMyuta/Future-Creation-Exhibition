@@ -14,7 +14,7 @@ struct FEffekseerHandle;
 #endif
 #define EFFEKSEER_EffekseerEmitterComponent_generated_h
 
-#define FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_RPC_WRAPPERS \
+#define FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execPlay) \
 	{ \
@@ -49,7 +49,7 @@ struct FEffekseerHandle;
 	}
 
 
-#define FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execPlay) \
 	{ \
@@ -84,7 +84,7 @@ struct FEffekseerHandle;
 	}
 
 
-#define FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_INCLASS_NO_PURE_DECLS \
+#define FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEffekseerEmitterComponent(); \
 	friend struct Z_Construct_UClass_UEffekseerEmitterComponent_Statics; \
@@ -93,7 +93,7 @@ public: \
 	DECLARE_SERIALIZER(UEffekseerEmitterComponent)
 
 
-#define FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_INCLASS \
+#define FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesUEffekseerEmitterComponent(); \
 	friend struct Z_Construct_UClass_UEffekseerEmitterComponent_Statics; \
@@ -102,7 +102,7 @@ public: \
 	DECLARE_SERIALIZER(UEffekseerEmitterComponent)
 
 
-#define FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_STANDARD_CONSTRUCTORS \
+#define FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UEffekseerEmitterComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UEffekseerEmitterComponent) \
@@ -115,7 +115,7 @@ private: \
 public:
 
 
-#define FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_ENHANCED_CONSTRUCTORS \
+#define FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UEffekseerEmitterComponent(UEffekseerEmitterComponent&&); \
@@ -126,26 +126,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEffekseerEmitterComponent); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UEffekseerEmitterComponent)
 
 
-#define FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_PRIVATE_PROPERTY_OFFSET
-#define FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_13_PROLOG
-#define FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_GENERATED_BODY_LEGACY \
+#define FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_PRIVATE_PROPERTY_OFFSET
+#define FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_13_PROLOG
+#define FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_PRIVATE_PROPERTY_OFFSET \
-	FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_RPC_WRAPPERS \
-	FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_INCLASS \
-	FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_STANDARD_CONSTRUCTORS \
+	FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_PRIVATE_PROPERTY_OFFSET \
+	FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_RPC_WRAPPERS \
+	FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_INCLASS \
+	FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_GENERATED_BODY \
+#define FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_PRIVATE_PROPERTY_OFFSET \
-	FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_INCLASS_NO_PURE_DECLS \
-	FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_ENHANCED_CONSTRUCTORS \
+	FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_PRIVATE_PROPERTY_OFFSET \
+	FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_INCLASS_NO_PURE_DECLS \
+	FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -153,7 +153,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> EFFEKSEER_API UClass* StaticClass<class UEffekseerEmitterComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FCreationExhibition_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h
+#define CURRENT_FILE_ID FCX_Plugins_Effekseer_Source_Effekseer_Public_EffekseerEmitterComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
